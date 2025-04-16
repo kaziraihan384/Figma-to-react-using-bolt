@@ -29,3 +29,5 @@ If you are satisfied with the result, you can finally build the project for rele
 ```
 npm run build
 ```
+# Screen shot
+![alt text](localhost_5173_.png)
